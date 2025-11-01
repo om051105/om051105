@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=200&section=header&text=Hey%20there%20👋%20I'm%20Om!&fontColor=ffffff&fontSize=40" />
 </p>
 
-<h1 align="center">Cybersecurity Enthusiast | AI Explorer | Web Dev Learner</h1>
+<h1 align="center">AI Explorer | Web Developer | Tech Learner</h1>
 
-<p align="center">🧠 "Code like a hacker, secure like a pro." 🧠</p>
+<p align="center">💡 "Think logically, build creatively." 💡</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎯 Final-year student passionate about **Cybersecurity**, **AI**, and **Web Development**
-- 🚀 Exploring projects involving automation, ML, and digital art
+- 🎯 Final-year student passionate about **AI**, **Automation**, and **Web Development**
+- 🚀 Exploring projects involving machine learning, creative coding, and digital art
 - 📫 You can reach me at: **[singhsid2005@gmail.com](mailto:singhsid2005@gmail.com)**  
 - 🌐 My portfolio: [portfolio1973.com](http://portfolio1973.com/)
 
@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -89,5 +88,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hacker+at+Heart%2C+Coder+by+Passion;Cybersecurity+is+my+Playground;Always+Learning+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+is+the+Future;Building+Creative+Tech+Projects;Always+Learning+%F0%9F%92%AA" />
 </p>
