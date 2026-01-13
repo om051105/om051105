@@ -36,34 +36,28 @@ I am a passionate **Artificial Intelligence & Machine Learning Student** deeply 
 
 ##  Featured Projects
 
-###  [Real-Time Concentration Tracker](https://github.com/om051105/Real-Time-Concentration-Tracker)
-> A sophisticated AI system that parses webcam feeds to analyze user focus levels in real-time, providing actionable productivity analytics.
-> *Tech: Python, OpenCV, TensorFlow, React*
+###  [Concentration Tracker (FocusAI)](https://github.com/om051105/Real-Time-Concentration-Tracker)
+> A sophisticated AI system that parses webcam feeds to analyze user focus levels in real-time.
+> *Tech: Python, OpenCV, MediaPipe, React*
 
-###  [Sudoku Vision](https://github.com/om051105/Sudoku-Vision)
-> Augmented Reality based solver that reads physical Sudoku grids via camera, solves them algorithmically, and overlays the solution.
+###  [Sudoku Vision AR](https://github.com/om051105/Sudoku-Vision)
+> Augmented Reality based solver that reads physical Sudoku grids via camera and solves them.
 > *Tech: Computer Vision, OCR, Backtracking Algorithms*
 
-###  [AI Document RAG Chatbot](https://github.com/om051105/AI-Document-Search--RAG-Chatbot)
-> Retrieval Augmented Generation system allowing users to chat with their PDF documents using LLMs.
+###  [DocuMind (RAG Chatbot)](https://github.com/om051105/AI-Document-Search--RAG-Chatbot)
+> Retrieval Augmented Generation system allowing users to chat with documents using LLMs.
 > *Tech: LangChain, ChromaDB, OpenAI/Llama*
-
-###  [AI Resume Screener](https://github.com/om051105/AI-Powered-Resume-Screener)
-> Automated recruitment tool that uses NLP to parse resumes and match them against job descriptions with high accuracy.
-> *Tech: NLP, Spacy, Streamlit*
 
 ---
 
 ##  GitHub Analytics
 
 <div align='center'>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=radical&count_private=true" height="150" alt="om051105's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=om051105&theme=radical" height="150" alt="om051105's streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=radical" height="150" alt="Top Languages" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om051105&theme=dracula&hide_border=true" width="48%" />
+</div>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <br/>
