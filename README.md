@@ -57,12 +57,13 @@ I am a passionate **Artificial Intelligence & Machine Learning Student** deeply 
 ##  GitHub Analytics
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om051105&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=tokyonight&hide_border=true" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=radical&count_private=true" height="150" alt="om051105's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=om051105&theme=radical" height="150" alt="om051105's streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  </p>
 </div>
 
 <br/>
