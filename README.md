@@ -1,92 +1,71 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=200&section=header&text=Hey%20there%20👋%20I'm%20Om!&fontColor=ffffff&fontSize=40" />
-</p>
+# <div align='center'>Hi, I'm Om Singh! </div>
+<div align='center'>
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=AI%20%2F%20ML%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Deep%20Learning%20Researcher%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50' width='100%' />
+</div>
 
-<h1 align="center">AI Explorer | Web Developer | Tech Learner</h1>
+<div align='center'>
 
-<p align="center">💡 "Think logically, build creatively." 💡</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91DA&center=true&vCenter=true&width=435&lines=Building+Next-Gen+AI+Systems;Explaining+Deep+Learning+Models;Mastering+Computer+Vision+pipelines;Full+Stack+Integration)](https://git.io/typing-svg)
 
----
+</div>
 
-### 🧑‍💻 About Me
+##  About Me
+I am a passionate **Artificial Intelligence & Machine Learning Student** deeply focused on bridging the gap between complex research implementation and real-world applications. My work spans **Computer Vision**, **Natural Language Processing (RAG)**, and **Full-Stack Development**.
 
-- 🎯 Final-year student passionate about **AI**, **Automation**, and **Web Development**
-- 🚀 Exploring projects involving machine learning, creative coding, and digital art
-- 📫 You can reach me at: **[singhsid2005@gmail.com](mailto:singhsid2005@gmail.com)**  
-- 🌐 My portfolio: [portfolio1973.com](http://portfolio1973.com/)
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.instagram.com/_.om._555/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/om6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Om051105/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="http://portfolio1973.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+-  Im currently working on **Real-Time Attention Mechanisms & Deep Learning Optimizations**.
+-  Im currently learning **Advanced GANS and Transformer Architectures**.
+- 👯 I’m looking to collaborate on **Open Source AI Projects**.
+- 💬 Ask me about **Python, TensorFlow, React, and System Design**.
 
 ---
 
-### 🚀 Projects You Should See
+## 🛠️ Tech Stack & Tools
 
-| Project | Description |
-|--------|-------------|
-| 🎨 [Digital Art Gallery](https://github.com/om051105/Digital-Art-Gallery) | An elegant platform to showcase digital art |
-| 🏏 [Cricket Win Predictor](https://github.com/om051105/Cricket-Win-Predictor) | ML-based cricket match outcome predictor |
-| 🧠 [Detection AI](https://github.com/om051105/Detection-Ai) | AI that detects objects and learns continuously |
-| 📝 [Resume Builder](https://github.com/om051105/Resume-Builder) | A smart and simple online resume builder |
+<div align='center'>
 
----
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Web Dev** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) |
 
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=radical" />
-</p>
+### 🧠 [Real-Time Concentration Tracker](https://github.com/om051105/Real-Time-Concentration-Tracker)
+> A sophisticated AI system that parses webcam feeds to analyze user focus levels in real-time, providing actionable productivity analytics.
+> *Tech: Python, OpenCV, TensorFlow, React*
 
----
+### 👁️ [Sudoku Vision](https://github.com/om051105/Sudoku-Vision)
+> Augmented Reality based solver that reads physical Sudoku grids via camera, solves them algorithmically, and overlays the solution.
+> *Tech: Computer Vision, OCR, Backtracking Algorithms*
 
-### 🐍 Contribution Snake
+### 🤖 [AI Document RAG Chatbot](https://github.com/om051105/AI-Document-Search--RAG-Chatbot)
+> Retrieval Augmented Generation system allowing users to chat with their PDF documents using LLMs.
+> *Tech: LangChain, ChromaDB, OpenAI/Llama*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/om051105/om051105/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-### ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om051105&theme=react-dark" />
-</p>
+### 📜 [AI Resume Screener](https://github.com/om051105/AI-Powered-Resume-Screener)
+> Automated recruitment tool that uses NLP to parse resumes and match them against job descriptions with high accuracy.
+> *Tech: NLP, Spacy, Streamlit*
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+is+the+Future;Building+Creative+Tech+Projects;Always+Learning+%F0%9F%92%AA" />
-</p>
+## 📊 GitHub Analytics
+
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om051105&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+<div align='center'>
+  <i>Let's connect and build something amazing together!</i>
+</div>
