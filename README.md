@@ -1,4 +1,4 @@
-# <div align='center'>Hi, I'm Om Singh! </div>
+# <div align='center'>Hi, I'm Om Singh! 👋</div>
 <div align='center'>
   <img src='https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=AI%20%2F%20ML%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Deep%20Learning%20Researcher%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50' width='100%' />
 </div>
@@ -14,12 +14,12 @@ I am a passionate **Artificial Intelligence & Machine Learning Student** deeply 
 
 -  Im currently working on **Real-Time Attention Mechanisms & Deep Learning Optimizations**.
 -  Im currently learning **Advanced GANS and Transformer Architectures**.
-- 👯 I’m looking to collaborate on **Open Source AI Projects**.
-- 💬 Ask me about **Python, TensorFlow, React, and System Design**.
+-  Im looking to collaborate on **Open Source AI Projects**.
+-  Ask me about **Python, TensorFlow, React, and System Design**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align='center'>
 
@@ -34,27 +34,27 @@ I am a passionate **Artificial Intelligence & Machine Learning Student** deeply 
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🧠 [Real-Time Concentration Tracker](https://github.com/om051105/Real-Time-Concentration-Tracker)
+###  [Real-Time Concentration Tracker](https://github.com/om051105/Real-Time-Concentration-Tracker)
 > A sophisticated AI system that parses webcam feeds to analyze user focus levels in real-time, providing actionable productivity analytics.
 > *Tech: Python, OpenCV, TensorFlow, React*
 
-### 👁️ [Sudoku Vision](https://github.com/om051105/Sudoku-Vision)
+###  [Sudoku Vision](https://github.com/om051105/Sudoku-Vision)
 > Augmented Reality based solver that reads physical Sudoku grids via camera, solves them algorithmically, and overlays the solution.
 > *Tech: Computer Vision, OCR, Backtracking Algorithms*
 
-### 🤖 [AI Document RAG Chatbot](https://github.com/om051105/AI-Document-Search--RAG-Chatbot)
+###  [AI Document RAG Chatbot](https://github.com/om051105/AI-Document-Search--RAG-Chatbot)
 > Retrieval Augmented Generation system allowing users to chat with their PDF documents using LLMs.
 > *Tech: LangChain, ChromaDB, OpenAI/Llama*
 
-### 📜 [AI Resume Screener](https://github.com/om051105/AI-Powered-Resume-Screener)
+###  [AI Resume Screener](https://github.com/om051105/AI-Powered-Resume-Screener)
 > Automated recruitment tool that uses NLP to parse resumes and match them against job descriptions with high accuracy.
 > *Tech: NLP, Spacy, Streamlit*
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
