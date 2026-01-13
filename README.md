@@ -1,4 +1,4 @@
-# <div align='center'>Hi, I'm Om Singh! 👋</div>
+# <div align='center'>Hi, I'm Om Singh! </div>
 <div align='center'>
   <img src='https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=AI%20%2F%20ML%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Deep%20Learning%20Researcher%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50' width='100%' />
 </div>
@@ -9,7 +9,7 @@
 
 </div>
 
-##  About Me
+## 🚀 About Me
 I am a passionate **Artificial Intelligence & Machine Learning Student** deeply focused on bridging the gap between complex research implementation and real-world applications. My work spans **Computer Vision**, **Natural Language Processing (RAG)**, and **Full-Stack Development**.
 
 -  Im currently working on **Real-Time Attention Mechanisms & Deep Learning Optimizations**.
@@ -52,13 +52,12 @@ I am a passionate **Artificial Intelligence & Machine Learning Student** deeply 
 
 ##  GitHub Analytics
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om051105&theme=dracula&hide_border=true" width="48%" />
-</div>
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=dracula&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om051105&show_icons=true&theme=radical" alt="Om Singh's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om051105&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <br/>
 <div align='center'>
