@@ -203,6 +203,62 @@ Mon  Tue  Wed  Thu  Fri  Sat  Sun
 
 ---
 
+## 🌍 Visitor Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/om051105/count.svg" alt="Visitor Count"/>
+
+  [![Visits](https://visitcount.itsvg.in/api?id=om051105&label=Profile%20Visits&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![Spotify](https://novatorem-om051105.vercel.app/api/spotify)](https://open.spotify.com)
+
+> ⚙️ *Deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel with your Spotify credentials to go live.*
+
+</div>
+
+---
+
+## ⏱️ Weekly Dev Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░  55%
+JavaScript    5 hrs 10 mins  ████░░░░░░░░░░░░░  23%
+PHP           2 hrs 45 mins  ██░░░░░░░░░░░░░░░  12%
+C++           1 hr  20 mins  █░░░░░░░░░░░░░░░░   6%
+Other         0 hrs 55 mins  ░░░░░░░░░░░░░░░░░   4%
+```
+<!--END_SECTION:waka-->
+
+> ⚙️ *[Sign up for WakaTime](https://wakatime.com) → install the VS Code extension → add `WAKATIME_API_KEY` to repo secrets.*
+
+</div>
+
+---
+
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+> ⚙️ *Start writing on [dev.to/om051105](https://dev.to/om051105) — posts auto-appear here via GitHub Action.*
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <a href="https://dev.to/om051105">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/>
+  </a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
   <sub>🟩 Painted green — ⭐️ From <a href="https://github.com/om051105">Om</a> — Let's connect and build something amazing!</sub>
