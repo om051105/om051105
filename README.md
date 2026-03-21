@@ -203,27 +203,6 @@ Mon  Tue  Wed  Thu  Fri  Sat  Sun
 
 ---
 
-## 🌍 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/om051105/count.svg" alt="Visitor Count"/>
-
-  [![Visits](https://visitcount.itsvg.in/api?id=om051105&label=Profile%20Visits&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-om051105.vercel.app/api/spotify)](https://open.spotify.com)
-
-> ⚙️ *Deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel with your Spotify credentials to go live.*
-
-</div>
-
----
 
 ## ⏱️ Weekly Dev Breakdown
 
