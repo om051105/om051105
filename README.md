@@ -94,7 +94,7 @@ print(me)
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om051105&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=om051105&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
@@ -130,11 +130,11 @@ print(me)
 ## 🟩 Green Wall — Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/39D353/om051105" alt="Om's Green Wall" width="100%"/>
+  <img src="https://ghchart.rshah.org/196127/om051105" alt="Om's Green Wall" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om051105&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om051105&bg_color=0D1117&color=196127&line=196127&point=39D353&area=true&area_color=196127&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -142,6 +142,7 @@ print(me)
 ## 🐍 Snake Eating My Commits
 
 <div align="center">
+  <!-- Snake appears here after GitHub Action runs -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om051105/om051105/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om051105/om051105/output/github-contribution-grid-snake.svg"/>
