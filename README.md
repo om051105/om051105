@@ -94,7 +94,7 @@ print(me)
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om051105&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=om051105&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
