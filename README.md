@@ -91,10 +91,28 @@ print(me)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Skill Levels
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om051105&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="100%"/>
+
+| Skill | Level |
+|:---|:---|
+| 🐍 Python | `████████████████████` 95% |
+| 🤖 Machine Learning | `███████████████████░` 90% |
+| 👁️ Computer Vision | `██████████████████░░` 85% |
+| ⚛️ React / Node.js | `█████████████████░░░` 80% |
+| 🦙 LLMs / RAG Systems | `████████████████░░░░` 75% |
+| 🐘 PHP / Full Stack | `██████████████░░░░░░` 70% |
+| 🐳 Docker / DevOps | `████████████░░░░░░░░` 60% |
+
+</div>
+
+---
+
+## 🤣 A Dev Joke — Just For You
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0D1117&borderColor=196127&qColor=39D353&aColor=ffffff&textColor=39D353" alt="Dev Joke" width="70%"/>
 </div>
 
 ---
